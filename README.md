@@ -58,7 +58,7 @@
 |  Проект |  Описание задачи | Библиотеки | 
 | :--------------------------- | :--------------------------- | --------------------- |
 | [Отток клиентов Telecom](https://github.com/AndyGavrilov/Telecom)| Необходимо спрогнозировать, уйдёт клиент от оператора Телеком в ближайшее время или нет | pandas, sklearn, catboost, seaborn, plotly, matplotlib, tqdm, phik |
-| [Поиск токсичных комментариев](https://https://github.com/AndyGavrilov/toxic_comments)| Необходимо cоздать инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. | pandas, sklearn, plotly, matplotlib, lightgbm, nltk |
+| [Поиск токсичных комментариев](https://github.com/AndyGavrilov/toxic_comments)| Необходимо cоздать инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. | pandas, sklearn, plotly, matplotlib, lightgbm, nltk |
 
 ---
 
