@@ -6,8 +6,6 @@
 
 Я начинающий Data Scientist   <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="30px">. Текущее место работы тесно связано с Data Science и для качественного выполнения своих обязанностей было необходимо расширять свои компетенции в данной области. Это привело к тому, что увлекся Data Science и начал проходить различные обучающие курсы, например, Яндекс Практикум.
 
-- :zap: Хочу освоить новую проффесию и найти работу.
-
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-agavrilovv-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/agavrilovv) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:gavrilovandrey555@gmail.com)
 
 ---
