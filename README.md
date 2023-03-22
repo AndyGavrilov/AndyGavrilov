@@ -4,7 +4,7 @@
 
 Обо мне:
 
-Я начинающий Data Scientist   <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="30px">. Текущее место работы тесно связано с Data Science и для качественного выполнения своих обязанностей было необходимо расширять свои компетенции в данной области. Это привело к тому, что увлекся Data Science и начал проходить различные обучающие курсы, например, Яндекс Практикум.
+Я начинающий Data Scientist. Текущее место работы тесно связано с Data Science и для качественного выполнения своих обязанностей было необходимо расширять свои компетенции в данной области. Это привело к тому, что увлекся Data Science и начал проходить различные обучающие курсы, например, Яндекс Практикум.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-agavrilovv-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/agavrilovv) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:gavrilovandrey555@gmail.com)
 
@@ -59,18 +59,3 @@
 | :--------------------------- | :--------------------------- | --------------------- |
 | [Отток клиентов Telecom](https://github.com/AndyGavrilov/Telecom)| Необходимо спрогнозировать, уйдёт клиент от оператора Телеком в ближайшее время или нет | pandas, sklearn, catboost, seaborn, plotly, matplotlib, tqdm, phik |
 | [Поиск токсичных комментариев](https://github.com/AndyGavrilov/toxic_comments)| Необходимо cоздать инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. | pandas, sklearn, plotly, matplotlib, lightgbm, nltk |
-
----
-
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=AndyGavrilov&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndyGavrilov&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
